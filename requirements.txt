@@ -1,0 +1,7 @@
+aiogram==2.25.2
+pillow
+asyncio
+aiosqlite
+aiohttp
+requests
+
